@@ -1,0 +1,21 @@
+{
+  "name": "integral-lens",
+  "owner": {
+    "name": "nftvity",
+    "url": "https://github.com/nftvity"
+  },
+  "metadata": {
+    "description": "Integral Lens — Ken Wilber's Integral Vision (AQAL) as a Claude Skill.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "integral-lens",
+      "source": "./",
+      "description": "See anything whole with AQAL (quadrants, levels, lines, states, types), find blind spots, and extract a balanced action plan with tasks.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["integral-theory", "ken-wilber", "aqal", "systems-thinking", "planning"]
+    }
+  ]
+}

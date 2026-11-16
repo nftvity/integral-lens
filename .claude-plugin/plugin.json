@@ -1,0 +1,13 @@
+{
+  "name": "integral-lens",
+  "version": "1.0.0",
+  "description": "Ken Wilber's Integral Vision (AQAL) as a Claude Skill: see any situation from every essential perspective, find the blind spots, and turn the map into a balanced action plan with tasks.",
+  "author": {
+    "name": "nftvity",
+    "url": "https://github.com/nftvity"
+  },
+  "homepage": "https://github.com/nftvity/integral-lens",
+  "repository": "https://github.com/nftvity/integral-lens",
+  "license": "MIT",
+  "keywords": ["integral-theory", "ken-wilber", "aqal", "four-quadrants", "spiral-dynamics", "systems-thinking", "decision-making", "planning", "coaching", "strategy"]
+}
