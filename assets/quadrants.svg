@@ -62,7 +62,7 @@
   <text x="120" y="372" fill="#ffffff" font-size="17">relationships · worldview · norms</text>
   <text x="120" y="440" fill="#ffffff" font-size="14" opacity="0.8">THE GOOD · justness</text>
   <text x="120" y="488" fill="#ffffff" font-size="34" font-weight="700">WE</text>
-  <text x="172" y="488" fill="#ffffff" font-size="15" opacity="0.85">  LOWER LEFT · CULTURAL</text>
+  <text x="190" y="488" fill="#ffffff" font-size="15" opacity="0.85">  LOWER LEFT · CULTURAL</text>
 
   <!-- LR -->
   <text x="840" y="346" fill="#ffffff" font-size="17" text-anchor="end">systems · structures · technology</text>
